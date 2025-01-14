@@ -1,0 +1,5 @@
+student-management-system/
+│
+├── student_management_tkinter.py  # Main Python script
+├── README.md                       # Documentation
+└── student_management.db           # SQLite database (auto-created)
